@@ -13,17 +13,6 @@ The website consists of the following pages:
 - **Projects** – Academic projects with brief descriptions  
 - **Contact** – Contact information  
 
-## 🗂️ Folder Structure
-Level-1/
-└── Task-1/
-└── site/
-├── index.html
-├── education.html
-├── skills.html
-├── projects.html
-├── contact.html
-└── style.css
-
 
 ## 🛠️ Technologies Used
 - HTML5  
@@ -38,7 +27,7 @@ Level-1/
 - Soft color palette with subtle animations  
 
 ## Live Demo
-https://shishi2003.github.io/jivirus-software-engineering/Level-1/Task-1/site/index.html
+https://shishi2003.github.io/jivirus-software-engineering/index.html
 
 ## How to Run Locally
 1. Download or clone the repository
