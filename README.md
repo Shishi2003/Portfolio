@@ -31,8 +31,7 @@ https://shishi2003.github.io/jivirus-software-engineering/index.html
 
 ## How to Run Locally
 1. Download or clone the repository
-2. Navigate to Level-1/Task-1/site/
-3. Open index.html in any modern web browser
+2. Open index.html in any modern web browser
 
 
 ## 👤 Author
